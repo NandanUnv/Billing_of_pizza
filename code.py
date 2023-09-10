@@ -1,3 +1,8 @@
+# billing the order of pizzas
+# Cost of pizza small, Medium, Large are 100,200,300
+# Cost of Pepperoni Small, Medium, Large are 30, 50,50
+# Cost of extra cheese is 20
+
 sum = 0
 
 p = input("Size of your pizza(S/M/L):")
